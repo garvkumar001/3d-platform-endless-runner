@@ -1,0 +1,1 @@
+Drop prefabs here named: Player, Coin, Gem, Crate, SpikeTrap, Boulder, MovingSaw, FlyingEnemy, EnemyBot, PowerUp_Magnet, PowerUp_Shield, PowerUp_Speed, PowerUp_Multiplier, PowerUp_Jetpack, PowerUp_Invincible. They replace the placeholders automatically.
